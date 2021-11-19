@@ -15,21 +15,25 @@ Technologies used to build the application
 ## Screenshots
 
 <div align="center" id="top"> 
+  <p>Login</p>
   <img src="./public/images/login.png" alt="Login" />
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
+  <p>Dashboard</p>
   <img src="./public/images/dashboard.png" alt="Dashboard" />
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
+  <p>Users</p>
   <img src="./public/images/users.png" alt="Users" />
 </div>
 <br/>
 <br/>
 <div align="center" id="top"> 
+  <p>Create User</p>
   <img src="./public/images/create-user.png" alt="Create User" />
 </div>
 <br/>
